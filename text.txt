@@ -1,0 +1,9 @@
+find player id 
+enemy id 
+id user / attack/ enemy id
+for(let i=2; i<3; i++) {
+  arr.push(Math.random() < (<soldiers_dikirim> / (<soldiers_townhall_lawan> + 1)))
+}
+const isSuccess = arr.filter(el => el).length >= 2 ? true : false;
+databarack.length = arr.length
+const data barack = find({.author}) => arr.length
